@@ -64,6 +64,10 @@ h5 {
 
 }
 
+h1 {
+  font-weight: lighter;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
