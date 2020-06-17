@@ -56,6 +56,12 @@ h5 {
     padding-left: 0;
   }
 
+  #container {
+    margin-top: 8vh;
+    text-align: center;
+    align-content: center;
+  }
+
 }
 
 /*
