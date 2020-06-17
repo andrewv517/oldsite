@@ -28,11 +28,13 @@ body {
 .list ul, .list2 ul {
   list-style-type: none;
   padding: 0;
+  text-align: center;
 }
 
 .list li {
   display: inline;
   margin: 5px;
+  text-align: center;
 }
 
 h5 {
@@ -40,15 +42,20 @@ h5 {
   font-weight: lighter;
 }
 
+
 .list2 li {
   display: inline;
   margin: 30px;
+  padding-left: 25px;
+
 }
 
-@media only screen and (max-width: 411px) {
+@media only screen and (max-width: 769px) {
   .list2 li {
     display: block;
+    padding-left: 0;
   }
+
 }
 
 /*
